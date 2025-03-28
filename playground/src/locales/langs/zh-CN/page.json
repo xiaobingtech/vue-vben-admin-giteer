@@ -9,7 +9,7 @@
     "codeSentTo": "验证码已发送至{0}"
   },
   "dashboard": {
-    "title": "概览",
+    "title": "用户数据",
     "analytics": "分析页",
     "workspace": "工作台"
   }

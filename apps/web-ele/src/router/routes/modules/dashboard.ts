@@ -23,14 +23,23 @@ const routes: RouteRecordRaw[] = [
         },
       },
       {
-        name: 'Workspace',
-        path: '/workspace',
-        component: () => import('#/views/dashboard/workspace/index.vue'),
+        name: 'Overview',
+        path: '/overview',
+        component: () => import('#/views/dashboard/user/index.vue'),
         meta: {
-          icon: 'carbon:workspace',
-          title: $t('page.dashboard.workspace'),
+          icon: 'lucide:users',
+          title: $t('page.dashboard.users'),
         },
       },
+      // {
+      //   name: 'Workspace',
+      //   path: '/workspace',
+      //   component: () => import('#/views/dashboard/workspace/index.vue'),
+      //   meta: {
+      //     icon: 'carbon:workspace',
+      //     title: $t('page.dashboard.workspace'),
+      //   },
+      // },
     ],
   },
 ];

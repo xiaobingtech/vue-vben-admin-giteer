@@ -9,6 +9,17 @@
   "dashboard": {
     "title": "概览",
     "analytics": "分析页",
-    "workspace": "工作台"
+    "workspace": "工作台",
+    "users": "所有用户"
+  },
+  "user": {
+    "name": "用户名",
+    "login": "登录名",
+    "lat": "纬度",
+    "lng": "经度",
+    "avatar": "头像",
+    "device": "设备",
+    "pageSize": "每页显示",
+    "title": "所有用户"
   }
 }

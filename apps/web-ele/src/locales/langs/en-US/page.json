@@ -9,6 +9,17 @@
   "dashboard": {
     "title": "Dashboard",
     "analytics": "Analytics",
-    "workspace": "Workspace"
+    "workspace": "Workspace",
+    "users": "All Users"
+  },
+  "user": {
+    "name": "Name",
+    "login": "Login Name",
+    "lat": "Latitude",
+    "lng": "Longitude",
+    "avatar": "Avatar",
+    "device": "Device",
+    "pageSize": "Page Size",
+    "title": "All Users"
   }
 }
